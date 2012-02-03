@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: Grenada-geonode
+Version: 0.1
+Summary: Sample project
+Home-page: https://git@github.com:kenflet/Grenada_geonode.git
+Author: Kenton Fletcher
+Author-email: kenflet@hotmail.com
+License: BSD
+Description: UNKNOWN
+Keywords: geonode django
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Framework :: GeoNode
+Classifier: License :: OSI Approved :: BSD
